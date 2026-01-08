@@ -1,3 +1,5 @@
 latex-to-image-app/dist/
 *.dmg
 node_modules/
+.venv/
+.DS_Store

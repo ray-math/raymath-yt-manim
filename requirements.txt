@@ -1,0 +1,10 @@
+bokeh
+gmpy2
+manim
+matplotlib
+mpmath
+networkx
+numpy
+pandas
+scipy
+sympy
